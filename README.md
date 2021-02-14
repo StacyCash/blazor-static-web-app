@@ -12,5 +12,4 @@ The application will compile and run locally, and can be extended as wished.
 
 The github workflow file is included for completeness, but not usable.
 
-To deploy the application it needs to be removed, and a new workflow file should be created
-This is acheived by creating a new [Azure Static Web App](https://docs.microsoft.com/en-us/azure/static-web-apps?WT.mc_id=AZ-MVP-5003925) in the portal.
+To deploy the application it needs to be removed, and a new workflow file should be created. To do this create a new [Azure Static Web App](https://docs.microsoft.com/en-us/azure/static-web-apps?WT.mc_id=AZ-MVP-5003925) in the portal.
