@@ -22,20 +22,6 @@ But there are steps needed to do so
   * Click on `Properties` <br /> ![Solution context menu](images/solution-context-menu.png)
   * In the window that opens <br /> ![Solution properties window](images/solution-properties.png)
 
-* Create localSettings for Api project
-  * Create a new file in the root of the Api project
-  * Add this json to the file
-
-``` json
-{
-    "IsEncrypted": false,
-    "Values": {
-        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
-        "FUNCTIONS_WORKER_RUNTIME": "dotnet"
-    }
-}
-```
-
 ## Deploying the application
 
 The github workflow file is included for completeness, but not usable.
