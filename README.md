@@ -19,8 +19,8 @@ But there are steps needed to do so
 * Set both `Api` and `Client` projects to startup
   * Open the solution
   * Right click on the solution to bring up the context menu
-  * Click on `Properties` <br /> ![Solution context menu](images\solution-context-menu.png)
-  * In the window that opens <br /> ![Solution properties window](images\solution-properties.png)
+  * Click on `Properties` <br /> ![Solution context menu](images/solution-context-menu.png)
+  * In the window that opens <br /> ![Solution properties window](images/solution-properties.png)
 
 * Create localSettings for Api project
   * Create a new file in the root of the Api project
